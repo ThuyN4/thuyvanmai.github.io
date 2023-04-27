@@ -1,0 +1,104 @@
+header{
+    border:1px solid #ccc;
+    background-color:#73ad21;
+    color:white;
+    text-align:center;
+    padding-bottom:15px;
+}
+.nav>li{
+    float: left;
+    margin-right: 15px;
+  }
+  
+  .nav>li>a{
+    text-transform: uppercase;
+    color: red;
+  }
+  
+  .nav li{
+    position: relative;
+    list-style:none;
+  }
+  
+  .nav li a{
+    padding: 10px;
+    line-height: 20px;
+    display: inline-block;
+  }
+  
+  .nav .sub-menu{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 200px;
+    background-color: #eee;
+    padding: 5px 20px;
+  }
+  
+  .nav li:hover>.sub-menu{
+    display: block;
+  }
+  
+  .nav>li>.sub-menu{
+    top: 40px;
+    left: 0;
+  }
+.ok{
+    background-position: left center;
+     border-style: solid;
+     width: 50%;
+    height: 300px;
+}
+.ok1 {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.nav{
+
+    border:1px solid #ccc;
+    background-color:#6800f0;
+    color:white;
+    text-align:center;
+    padding-bottom:50px;
+}
+.ok2{
+    height: 300px;
+    width: 300px
+}
+.ok3{
+    background-position: center center;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.ok4{
+    background-position: right center;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.ok{
+      height: 300px;
+    width: 300px
+}
+.ok5{
+    
+    height: 300px;
+    width: 300px
+    ma
+}
+.cot {  float: left;
+    margin: 0 auto;
+    width: 33.33%;
+    padding: 0px;
+    text-align:center;
+}
+
+.ok10{
+  width: 100px;
+  height: 100px;
+  margin: center auto;
+}
+
